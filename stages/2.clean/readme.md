@@ -1,11 +1,11 @@
-# Data Cleaning & Wrangling
+# Data Cleaning
 
 This section outlines all the data manipulation and transformation done on the dataset.
 
 ### Pre-Modification Measures
 Before any manipulation and transformation were made, measures were taken to ensure data integrity. These measures included:
 
-+ **Creation of Backup Table**<br> A backup table "session" with the exact columns from the imported dataset was created. This served as a safeguard against unintended changes to the original dataset.
++ **Creation of Backup Table**<br> A backup table "session" with the exact columns from the imported dataset was created. This served as a safeguard against unintended changes to the original records.
 
 ## Cleaning Steps Applied:
 

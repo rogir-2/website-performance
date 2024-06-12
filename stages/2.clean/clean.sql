@@ -1,4 +1,4 @@
--- Data Cleaning & Wrangling --
+-- Data Cleaning / Wrangling --
 
 SELECT * FROM session_stage;
 

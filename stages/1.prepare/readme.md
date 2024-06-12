@@ -1,13 +1,11 @@
 # Data Collection 
-
 This section aims to demonstrate the data acquisition process, outlining the steps taken to extract and load data.
 
 ### Data Source
 
 I personally know the client and they shared encrypted and password protected zip file containing csv data. File name is “sitelog-Dec-2023.”
 
-The csv consists of 6 fields and 2319 entries / records.<br>
-
+The csv consists of 6 fields and 2319 entries / records.
 <table>
     <tr>
         <th>Fields</th>
